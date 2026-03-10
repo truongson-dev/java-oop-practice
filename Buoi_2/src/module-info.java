@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module DiemSV 
+{
+	requires TaoTV;
+}

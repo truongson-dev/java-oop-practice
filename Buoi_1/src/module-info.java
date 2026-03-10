@@ -1,0 +1,4 @@
+module TaoTV
+{
+//	requires TaoTV;
+}
